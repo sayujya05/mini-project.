@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+.container {
+  background-color: black;
+  min-height: 100vh;
+}
+section, div {
+  background-color: black;
+}
